@@ -1,0 +1,28 @@
+	block_00401 = {
+		{"text"},
+		text = {
+			ja = {
+				{
+					"notest",
+					{"rt2"},
+				},
+			},
+		},
+		linkback = "block_00400",
+		linknext = "block_00402",
+		line = 1730,
+	},
+	block_00402 = {
+		{"text"},
+		text = {
+			ja = {
+				{
+					"no哈哈哈哈",
+					{"rt2"},
+				},
+			},
+		},
+		linkback = "block_00401",
+		linknext = "block_00403",
+		line = 1732,
+	},
